@@ -1,0 +1,21 @@
+{
+    "name": "jugio-s-high-contrast-dark-theme",
+    "displayName": "JuGio's High Contrast Dark Theme",
+    "description": "Description TODO",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JuGio's High Contrast Dark Theme",
+                "uiTheme": "hc-black",
+                "path": "./themes/JuGio's High Contrast Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
