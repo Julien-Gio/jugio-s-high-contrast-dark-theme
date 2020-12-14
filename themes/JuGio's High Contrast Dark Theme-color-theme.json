@@ -342,7 +342,9 @@
 	{
 		"name": "Control Flow (`if`, `else`, `switch`, `return`, etc.)",
 		"scope": [
-			"keyword.control"
+			"keyword.control",
+			"keyword.operator.expression",
+			"keyword.operator.new"
 		],
 		"settings": {
 			"foreground": "#8cf"
